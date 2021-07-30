@@ -7,7 +7,9 @@ void main()
 {
 
 char ch1, ch2;
+
 printf("Entre com duas letras:\n");
+
 scanf("%c", &ch1);
 
 fflush(stdin);
